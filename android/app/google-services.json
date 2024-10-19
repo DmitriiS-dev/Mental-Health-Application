@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "424594221222",
+    "firebase_url": "https://mental-h-app-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "mental-h-app",
+    "storage_bucket": "mental-h-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424594221222:android:f9d814bf9107fd48146c67",
+        "android_client_info": {
+          "package_name": "com.example.mh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDup53PuleBeR1AGBTL-p-QEoqgifAtDq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
